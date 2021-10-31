@@ -2,7 +2,7 @@
  <a href="https://qonversion.io" target="_blank"><img width="360" height="45" src="https://qcdn3.sfo3.digitaloceanspaces.com/github/qonversion_logo.png"></a>
 </p>
 
-Qonversion is the data platform to power in-app subscription revenue growth. 
+Qonversion is the data platform to power in-app subscription revenue growth.
 
 * fast in-app subscriptions implementation
 * back-end infrastructure to validate user receipts
